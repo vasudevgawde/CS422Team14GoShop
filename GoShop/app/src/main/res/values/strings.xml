@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GoShop</string>
+    <string name="title_activity_main">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">User name</string>
+    <string name="prompt_password">Password</string>
+    <string name="loginActivityOR">OR</string>
+    <string name="registrationActivityPhone">Phone</string>
+    <string name="registrationActivityAddress">Address</string>
+    <string name="registrationActivityConfPwd">Confirm password</string>
+    <string name="registrationActivityRegister">Register</string>
+    <string name="menuActivityHome">Home</string>
+    <string name="menuActivityUserProfile">User profile</string>
+    <string name="menuActivityCart">Cart</string>
+    <string name="menuActivityFavorite">Favorites</string>
+    <string name="menuActivityOrderHist">Order History</string>
+    <string name="menuActivityLogout">Logout</string>
+    <string name="menuActivityInviteFrnds">Invite Friends</string>
+    <string name="menuActivityCommunicate">Communicate</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">LOG-IN</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">Incorrect user name/ password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_registration_activity">Registration</string>
+    <string name="menuActivityAboutGoShop">About GoShop</string>
+    <string name="aboutGoShopText">GoShop is an app created by:\n\nHrushikesh Vasista\nPrashanth Molakala\nPraveen Kumar Selvan\nVasudev Gawde\n</string>
+</resources>
